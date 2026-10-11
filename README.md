@@ -1,4 +1,4 @@
-# PRCL-0017: Customer Churn Prediction for No-Churn Telecom
+# Customer Churn Prediction for No-Churn Telecom
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![LightGBM](https://img.shields.io/badge/LightGBM-ML-green)
